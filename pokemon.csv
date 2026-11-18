@@ -1,0 +1,11 @@
+Name,Type,HP,Attack,Defense,Speed
+Pikachu,Electric,35,55,40,90
+Charizard,Fire,78,84,78,100
+Bulbasaur,Grass,45,49,49,45
+Squirtle,Water,44,48,65,43
+Mewtwo,Psychic,106,110,90,130
+Gengar,Ghost,60,65,60,110
+Dragonite,Dragon,91,134,95,80
+Snorlax,Normal,160,110,65,30
+Arcanine,Fire,90,110,80,95
+Lapras,Water,130,85,80,60
